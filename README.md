@@ -27,8 +27,8 @@ C:\Users\<Nom d'utilisateur>\AppData\Roaming\r2modmanPlus-local\LethalCompany
 Vous pouvez obtenir le chemin en tapant dans l'explorateur de fichier:
 %AppData%\r2modmanPlus-local\LethalCompany (comme sur l'image ci-dessous)
 ```
-## Grand 3
-Se fait tout seul a l'etape 2
+## Grand 3 - (Se fait tout seul a l'etape 2 avec .exe)
+
 Et enfin écraser les fichiers en faisant un copier-coller.
 ![copier-ecraser](https://github.com/Benoit-corso/LethalModpack/blob/main/images/Ecraser.png?raw=true)
 ___
