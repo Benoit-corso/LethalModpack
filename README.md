@@ -48,8 +48,10 @@ Et également le mods.yml, pour la même raison.
 %AppData%\r2modmanPlus-local\LethalCompany\profiles\Very Lethal Company\mods.json
 ```
 Voir: MauvaisManifest.png, BonManifest.png
+
 Généralement, il faudra juste remplacer "BepInEx-BepInExPack-5.4.2100" par "NoxCorp-BepInExPack-5.4.2302"
-un ctrl+f avec le bloc note est largement suffisant.
+
+Un ctrl+f avec le bloc note est largement suffisant.
 ___
 
 Si il y a du monde convaincu par tout ca, je ferais un script pour patcher automatiquement les fichiers, j'ai demandé a thunderstore ils ne veulent pas ajouter la mise a jour, donc je me suis permis de vous partager cela.
