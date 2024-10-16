@@ -26,8 +26,8 @@ il faut ouvrir le zip que je vous fourni, puis aller dans:
 %AppData%\r2modmanPlus-local\LethalCompany
 ```
 ## Grand 3
-Et enfin écraser les fichiers en faisant un copier-coller. (comme sur l'image - Ecraser.png)
-
+Et enfin écraser les fichiers en faisant un copier-coller.
+![copier-ecraser](https://github.com/Benoit-corso/LethalModpack/blob/main/Ecraser.png?raw=true)
 ___
 
 __Si jamais vous souhaitez ajouter d'autres mods__ (tout d'abord faites attention aux dépendances)
@@ -35,7 +35,8 @@ Des le premier mod installé r2modman aka thunderstore, risque de remplacer le n
 ```
 %AppData%\r2modmanPlus-local\LethalCompany\profiles\Very Lethal Company
 ```
-__Pour les mods qui ajoutent uniquement des assets__ (sans nouvelle dépendance - Dependance.png) c'est ok vous n'avez rien a faire.
+__Pour les mods qui ajoutent uniquement des assets__ (sans nouvelle dépendance) c'est ok vous n'avez rien a faire.
+![dependance](https://github.com/Benoit-corso/LethalModpack/blob/main/Dependance.png?raw=true)
 
 ___
 
@@ -47,7 +48,9 @@ Et également le mods.yml, pour la même raison.
 ```
 %AppData%\r2modmanPlus-local\LethalCompany\profiles\Very Lethal Company\mods.json
 ```
-Voir: MauvaisManifest.png, BonManifest.png
+
+![MauvaisManifest](https://github.com/Benoit-corso/LethalModpack/blob/main/MauvaisManifest.png?raw=true)
+![BonManifest](https://github.com/Benoit-corso/LethalModpack/blob/main/BonManifest.png?raw=true)
 
 Généralement, il faudra juste remplacer "BepInEx-BepInExPack-5.4.2100" par "NoxCorp-BepInExPack-5.4.2302"
 
