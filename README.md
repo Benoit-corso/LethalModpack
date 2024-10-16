@@ -31,7 +31,8 @@ Et enfin écraser les fichiers en faisant un copier-coller. (comme sur l'image -
 ___
 
 __Si jamais vous souhaitez ajouter d'autres mods__ (tout d'abord faites attention aux dépendances)
-Des le premier mod installé r2modman aka thunderstore, risque de remplacer le nouveau BepInEx, dans le doute il faut extraire la dernière version de BepInEx dans le profile:```
+Des le premier mod installé r2modman aka thunderstore, risque de remplacer le nouveau BepInEx, dans le doute il faut extraire la dernière version de BepInEx dans le profile:
+```
 %AppData%\r2modmanPlus-local\LethalCompany\profiles\Very Lethal Company
 ```
 __Pour les mods qui ajoutent uniquement des assets__ (sans nouvelle dépendance - Dependance.png) c'est ok vous n'avez rien a faire.
@@ -39,7 +40,7 @@ __Pour les mods qui ajoutent uniquement des assets__ (sans nouvelle dépendance 
 ___
 
 Sinon veillez bien a patcher le mod en question pour qu'il utilise le nouveau BepInEx:
- ```
+```
 %AppData%\r2modmanPlus-local\LethalCompany\profiles\Very Lethal Company\BepInEx\plugins\<nom-du-mod>\manifest.json
 ```
 Et également le mods.yml, pour la même raison.
