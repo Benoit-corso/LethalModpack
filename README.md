@@ -21,23 +21,25 @@ Pour ceux qui veulent uniquement jouer, les 3 premiers étapes sont suffisante.
 ## Grand 1
 Vous devez importer le modpack avec ce code: __019296ce-8d68-f227-4c8c-ddf603bd7703__
 ## Grand 2
-il faut ouvrir le zip que je vous fourni, puis aller dans:
+Telecharger puis lancer l'executable, lui fourni ce chemin:
 ```
-%AppData%\r2modmanPlus-local\LethalCompany
+C:\Users\<Nom d'utilisateur>\AppData\Roaming\r2modmanPlus-local\LethalCompany
+Vous pouvez obtenir le chemin en tapant dans l'explorateur de fichier:
+%AppData%\r2modmanPlus-local\LethalCompany (comme sur l'image ci-dessous)
 ```
 ## Grand 3
 Et enfin écraser les fichiers en faisant un copier-coller.
-![copier-ecraser](https://github.com/Benoit-corso/LethalModpack/blob/main/Ecraser.png?raw=true)
+![copier-ecraser](https://github.com/Benoit-corso/LethalModpack/blob/main/images/Ecraser.png?raw=true)
 ___
 
 __Si jamais vous souhaitez ajouter d'autres mods__ (tout d'abord faites attention aux dépendances)
-Des le premier mod installé r2modman aka thunderstore, risque de remplacer le nouveau BepInEx, dans le doute il faut extraire a nouveau la dernière version de BepInEx (BepInEx_win_x64_5.4.23.2.zip) dans le profile:
+Des le premier mod installé r2modman aka thunderstore, risque de remplacer le nouveau BepInEx, dans le doute il faut extraire a nouveau la dernière version de BepInEx ([BepInEx_win_x64_5.4.23.2.zip](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.2)) dans le profile:
 ```
 %AppData%\r2modmanPlus-local\LethalCompany\profiles\Very Lethal Company
 ```
 
 __Pour les mods qui ajoutent uniquement des assets__ (sans nouvelle dépendance) c'est ok vous n'avez rien a faire.
-![dependance](https://github.com/Benoit-corso/LethalModpack/blob/main/Dependance.png?raw=true)
+![dependance](https://github.com/Benoit-corso/LethalModpack/blob/main/images/Dependance.png?raw=true)
 
 ___
 
@@ -50,8 +52,8 @@ Et également le mods.yml, pour la même raison.
 %AppData%\r2modmanPlus-local\LethalCompany\profiles\Very Lethal Company\mods.json
 ```
 
-![MauvaisManifest](https://github.com/Benoit-corso/LethalModpack/blob/main/MauvaisManifest.png?raw=true)
-![BonManifest](https://github.com/Benoit-corso/LethalModpack/blob/main/BonManifest.png?raw=true)
+![MauvaisManifest](https://github.com/Benoit-corso/LethalModpack/blob/main/images/MauvaisManifest.png?raw=true)
+![BonManifest](https://github.com/Benoit-corso/LethalModpack/blob/main/images/BonManifest.png?raw=true)
 
 Généralement, il faudra juste remplacer "BepInEx-BepInExPack-5.4.2100" par "NoxCorp-BepInExPack-5.4.2302"
 
