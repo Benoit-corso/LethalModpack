@@ -19,6 +19,8 @@ Je précise, que la majeure partie du travail réside a sélectionner les mods q
 ## Installation
 Vous devez importer le modpack avec ce code: __019299ff-a3eb-2c00-5500-9ec7aaf97dc6__
 
+Si r2modman quitte pendant l'importation, vous pouvez update le profil a partir du meme code.
+
 Dans le meme temps, recuperez [Very Lethal Company.zip](https://github.com/Benoit-corso/LethalModpack/releases) et l'extraire ou vous voulez
 
 Une fois importé vous devez avoir 170mods.
