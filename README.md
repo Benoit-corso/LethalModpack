@@ -19,7 +19,7 @@ Pour ceux qui veulent uniquement jouer, les 3 premiers étapes sont suffisante.
 - r2modman
 ```
 ## Grand 1
-Vous devez importer le modpack avec ce code: __019296ce-8d68-f227-4c8c-ddf603bd7703__
+Vous devez importer le modpack avec ce code: __01929806-d151-f6da-8e2d-396a1575e3b5__
 ## Grand 2
 Telecharger puis lancer l'executable, lui fourni ce chemin:
 ```
