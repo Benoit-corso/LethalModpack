@@ -34,7 +34,7 @@ Vous devriez obtenir un chemin similaire a celui ci-dessous:
 C:\Users\<Nom d'utilisateur>\AppData\Roaming\r2modmanPlus-local\LethalCompany
 ```
 Pour finir :
-- Avec l'executable:
+- Avec l'executable (recommandé):
   - Lui fourni le chemin complet ci-dessus. (pas l'exemple, celui dans l'explorateur de fichier)
 - Avec 7zip, ouvrez "Very Lethal Company.7z.001"
   - Ecrasez les écraser les fichiers en faisant un copier-coller. comme sur l'image.
