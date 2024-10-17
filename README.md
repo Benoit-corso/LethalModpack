@@ -5,7 +5,7 @@
 - Inclus Emotes, Cosmetics, Suits.
 - Inclus quelques ennemies et planetes.
 - Inclus des hotfixes pour plus de performance, stabilité et QoL.
-- Il reste quelques erreurs (faux positifs pour la plupart) dans la console.
+- Il n'y a plus d'erreurs, sauf a cause de doublons.
 ```
 Il a pour but d'être une base a de nouveau modpacks tout en restant stable.
 
